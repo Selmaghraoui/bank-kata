@@ -6,9 +6,7 @@ import org.bankkata.business.implementation.Account;
 import org.bankkata.business.implementation.StatementPrinterImpl;
 import org.bankkata.business.implementation.Transaction;
 import org.junit.jupiter.api.Test;
-
 import java.util.List;
-
 import static org.mockito.Mockito.*;
 
 public class AccountTest {
